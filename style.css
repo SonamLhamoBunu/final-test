@@ -1,0 +1,147 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+#yes{
+    width: 100px;
+}
+
+#bunu{
+    width: 500px;
+}
+#div1 img{
+    width: 400px;
+    display: flex;
+    margin: auto;
+   position: relative;
+   left: 330px;
+ bottom: 40px;
+
+}
+
+#div2 img{
+    width: 400px;
+    display: flex;
+    margin: auto;
+   position: relative;
+   left: 330px;
+  bottom: 40px;
+
+}
+#div3 img{
+    width: 400px;
+    display: flex;
+    height: 500px;
+    margin: auto;
+   position: relative;
+   left: 330px;
+  bottom: 40px;
+
+}
+#dema{
+    height: 30vh;
+}
+
+#karma{
+    height: 30vh;
+}
+#ok{
+    
+    position: relative;
+    bottom: 500px;
+}
+#la{
+    height: 30vh;
+}
+
+/* #so{
+    position: relative;
+    top: 700px;
+
+} */
+#bu{
+    text-align: center;
+
+}
+button{
+    margin: auto;
+    display: flex;
+    position: relative;
+    bottom: 200px;
+}
+
+#so {
+    display: flex;
+
+}
+
+
+
+@media (max-width:600px) {
+#yes{
+        width: 100px;
+    }
+    
+    #bunu{
+        width: 271px;
+    }
+    #div1 img{
+        width: 400px;
+        display: flex;
+        margin: auto;
+       position: relative;
+       left: 200px;
+       bottom: 540px;
+    }
+    
+    #div2 img{
+        width: 400px;
+        display: flex;
+        margin: auto;
+       position: relative;
+       left: 200px;
+       bottom: 550px;
+    
+    }
+    #div3 img{
+        width: 400px;
+        display: flex;
+        margin: auto;
+       position: relative;
+       left: 200px;
+       bottom: 550px;
+    
+    }
+    #dema{
+        height: 30vh;
+    }
+    
+    #karma{
+        height: 30vh;
+    }
+    #ok{
+        position: relative;
+        bottom: 500px;  
+    }  
+    #la{
+        height: 30vh;
+    }
+    
+    /* #so{
+        position: relative;
+        top: 700px;
+    
+    } */
+    #bu{
+        text-align: center;
+    
+    }
+    button{
+        margin: auto;
+        display: flex;
+        position: relative;
+        bottom: 200px;
+    }
+    
+}
